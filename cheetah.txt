@@ -1,0 +1,6 @@
+team : Cheetahs
+
+manager : Dasom
+
+members :
+- JinHo
