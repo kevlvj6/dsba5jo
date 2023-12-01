@@ -1,6 +1,6 @@
 team : puma
 
-manager : HyeonSeo, park
+manager : Seop
 
 members :
 - JinHo
