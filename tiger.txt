@@ -1,6 +1,6 @@
 team : Tiger
 
-manager : Misoen
+manager : JeongSeop
 
 coach : Grace
 
