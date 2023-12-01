@@ -1,0 +1,9 @@
+team : jaguar
+
+manager : Misoen, Jae
+
+members :
+- JinHo
+- InHyeok
+- Seop
+- George
