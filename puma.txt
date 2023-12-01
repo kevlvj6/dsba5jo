@@ -1,6 +1,6 @@
 team : puma
 
-manager : Seop
+manager : JeongSeop
 
 members :
 - JinHo
