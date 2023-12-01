@@ -1,0 +1,6 @@
+team : Lion
+
+manager : TaeUkgi
+
+members :
+- JinHo
