@@ -1,6 +1,6 @@
 team : Tiger
 
-manager : donga
+manager : Misoen
 
 members :
 - JinHo
