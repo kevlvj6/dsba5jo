@@ -4,3 +4,5 @@ manager : Dasom
 
 members :
 - JinHo
+- HyeonSeo
+- SoHyeon
