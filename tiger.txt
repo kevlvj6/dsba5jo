@@ -1,0 +1,8 @@
+team : tiger
+
+manager : miseon
+
+members :
+- JinHo
+- InHyeok
+- Seop
