@@ -1,0 +1,7 @@
+team : puma
+
+manager : HyeonSeo, park
+
+members :
+- JinHo
+- YoHoooo
