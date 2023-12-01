@@ -1,6 +1,6 @@
 team : Tiger
 
-manager : Misoen
+manager : GyuMin
 
 coach : Grace
 
