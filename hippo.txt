@@ -1,0 +1,7 @@
+team : hippo
+
+manager : Kim
+
+members :
+- JinHo
+- YaHo
